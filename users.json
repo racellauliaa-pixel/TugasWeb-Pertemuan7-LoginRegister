@@ -1,0 +1,26 @@
+[
+    {
+        "id": "user_6ac71ac5ca4ef7.79323928",
+        "nama": "Rachel Aulia",
+        "email": "racellauliaa@gmail.com",
+        "password": "$2y$10$BWQxneMCOleSFBHqn.HGw.ZrVpUFcIo3FGlEr7BBpfHvbMSaRH1c.",
+        "remember_token": null,
+        "created_at": "2026-10-08 04:23:33"
+    },
+    {
+        "id": "user_6ac71ac5db03a8.66344321",
+        "nama": "Budi Santoso",
+        "email": "budi.santoso@example.com",
+        "password": "$2y$10$zbu.ekaTtou7CyI\/rrB7quKcBlOKlifJjMjiQMishXcm2uRceWhVm",
+        "remember_token": null,
+        "created_at": "2026-10-08 04:23:33"
+    },
+    {
+        "id": "user_6ac786610e4e58.12393014",
+        "nama": "rachel aulia",
+        "email": "racelaulia.4253250005@mhs.unimed.ac.id",
+        "password": "$2y$12$lt1KTAGwDSkM\/FAVsQ2CDO7p1WNAU02Xy2f49Y2DvTlbjzVnyUpAa",
+        "remember_token": null,
+        "created_at": "2026-10-08 12:02:41"
+    }
+]
